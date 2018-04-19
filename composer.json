@@ -12,7 +12,7 @@
     "license": "MIT",
     "require": {
         "php": ">= 5.4.0",
-        "yiisoft/yii2": "~2.0.11",
+        "yiisoft/yii2": "~2.*",
         "ext-curl": "*"
     },
     "autoload": {
